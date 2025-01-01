@@ -54,7 +54,3 @@ __pycache__/
 *.coverage
 *.pytest_cache/
 .tox/
-
-# Тестирование модулей
-/tests/
-/pytest.ini
